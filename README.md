@@ -13,8 +13,8 @@
 
 Below is the list of reaourses to be configured  for this project :
 
-  Amazon S3
-  Amazon Kinesis Data Firehose
-  Amazon Athena
-  Amazon QuickSight
+  Amazon S3 <br/>
+  Amazon Kinesis Data Firehose <br/>
+  Amazon Athena <br/>
+  Amazon QuickSight <br/>
 
