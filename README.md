@@ -7,6 +7,7 @@
                     [Vagdevi Challa](https://github.com/vagdevichalla)
 
 ## Project Introduction :
+In this project, we took real time data from twitter and analyzed the tweets.
 
 ## Sample Demo Screenshots : 
 
