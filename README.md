@@ -3,10 +3,10 @@
 1. University Name: [San Jose State University](http://www.sjsu.edu/)
 2. Course         : [Big Data Engineering and Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE266.html)
 3. Professor      : [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-4. Students       : [Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/)
-                    [Vagdevi Challa](https://github.com/vagdevichalla)
-                    [Mohinish Daswani](https://github.com/mohinishmd)
-			   [Kavina Desai](https://www.linkedin.com/in/kavina-desai)
+4. Students       : [Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
+                    [Vagdevi Challa](https://github.com/vagdevichalla) <br/>
+                    [Mohinish Daswani](https://github.com/mohinishmd) <br/>
+		    [Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
                     
 
 ## Project Introduction :
@@ -40,13 +40,56 @@ stored on S3.
 Below is the list of resources to be configured for this project:
 
   Amazon S3 <br/>
+  Amazon Simple Storage Service (Amazon S3) is an object storage service offering scalability, data availability, security,    	 and performance. It is designed for 99.999999999% of durability, and storing the data for millions of applications for      
+  organizations all around the world. <br/> Below are the steps to create S3 bucket : <br/> 
+  	
+	1. Open Amazon S3 console at https://console.aws.amazon.com/s3/.
+	2. Choose Create bucket.
+	3. Enter the bucket name and region where you want the bucket to reside. (here region is N. Virginia)
+	4. Choose Create. 
+	
+	
+ 
   Amazon Kinesis Data Firehose <br/>
+  Amazon Kinesis Data Firehose is used for reliably loading streaming data into data stores and analytics tools. It captures, 	transforms, and loads streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, Splunk and enables near   real-time analytics with existing business intelligence tools and dashboards. <br/>
+  In this project, we are capturing real time Twitter data in Amazon Kinesis Data firehose for the analysis.<br/>
+  
+  
   Amazon Athena <br/>
+  Amazon Athena is an interactive query service making it easy for analyzing data in Amazon S3 using standard SQL. Athena is     serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. <br/>
   Amazon QuickSight <br/>
+  Amazon QuickSight is a fully managed service that lets you easily create and publish interactive dashboards including ML     	 Insights. Dashboards can then be accessed from any device, and embedded into your applications, portals, and websites. <br/>
+  
+
   Amazon IAM <br/>
+  
+  
   Amazon Lambda <br/>
   Amazon EC2 <br/>
+  Amazon Elastic Compute Cloud (Amazon EC2) is a web service providing secure, resizable compute capacity in the cloud. It is 	designed to make web-scale cloud computing easier for developers. <br/>
+  Below are the steps for creating AWS EC2 instance for this project : <br/>
+  
+  	Create VPC and subnets with below configuration :
+	Select this option (to avoid charges to your account):
+    	In "Specify the details of your NAT gateway" Section, Select "Use NAT Instance Instead".  
+	
+	    NAT Instance Type:          t2.micro
+	    NAT Instance Keypair:       
 
+	    CIDR block                  10.0.0.0/16 
+	    Public Subnet:              10.193.10.0/24
+ 	
+	Launch a new EC2 Instance into your new VPC as follows:
+
+	T2 Micro Instance
+	VPC: Twitter_Data
+	Public Subnet
+	Auto Assign Public IP
+	Security Group: (create new) with ports 22 open
+	Select Key Pair: 
+	AWS Instance Name: Twitter_data
+
+ 
 
 ## How to run the project
 
