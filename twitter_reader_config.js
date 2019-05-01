@@ -1,9 +1,9 @@
 var twitter_config = module.exports = {
 twitter: {
-    consumer_key: 'g6HJkQ2oAm1SMWxfscl8FNwcH',
-    consumer_secret: 'Oppot22c4z2Bb35dodFb4ohJzGNksospUwaeNr43UaWgtfLk50',
-    access_token: '831836848972451841-rZNbmRH0IwVFZQ7HdoMFCVm5kidA9bB',
-    access_token_secret: 'uVQ2ROjmLs9rolMLm9ma1r1N52ZSDLqpJUy5r5Tt5X7TZ'
+    consumer_key: 'Your_consumer key',
+    consumer_secret: 'Your_Consumer_secret',
+    access_token: 'Your_access_token',
+    access_token_secret: 'Your_access_token_secret'
   },
 topics: ['IPL', 'cricket', 'sports', 'match', 'team'],
 languages: ['en'],
