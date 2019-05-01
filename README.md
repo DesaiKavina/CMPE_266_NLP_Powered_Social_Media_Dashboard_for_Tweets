@@ -82,18 +82,18 @@ Below is the list of resources to be configured for this project:
 	
 	
  
-  ####**Amazon Kinesis Data Firehose** <br/>
+  #### **Amazon Kinesis Data Firehose** <br/>
   Amazon Kinesis Data Firehose is used for reliably loading streaming data into data stores and analytics tools. It captures, 	transforms, and loads streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, Splunk and enables near   real-time analytics with existing business intelligence tools and dashboards. <br/>
   In this project, we are capturing real time Twitter data in Amazon Kinesis Data firehose for the analysis.<br/>
   
   
-  ####**Amazon Athena** <br/>
+  #### **Amazon Athena** <br/>
   Amazon Athena is an interactive query service making it easy for analyzing data in Amazon S3 using standard SQL. Athena is     serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. <br/>
   Amazon QuickSight <br/>
   Amazon QuickSight is a fully managed service that lets you easily create and publish interactive dashboards including ML     	 Insights. Dashboards can then be accessed from any device, and embedded into your applications, portals, and websites. <br/>
   
 
-  ####**Amazon IAM** <br/>
+  #### **Amazon IAM** <br/>
   AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources. You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources.
 
 	1. Sign in to the AWS Management Console and open the IAM console at https://console.aws.amazon.com/iam/.
