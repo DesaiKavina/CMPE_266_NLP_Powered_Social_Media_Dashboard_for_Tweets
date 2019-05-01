@@ -37,6 +37,35 @@ stored on S3.
 5) Then, used Amazon quick sight to visualize analyzed data.
 
 ## Sample Demo Screenshots : 
+1. Twitter App to collect data:
+
+<img width="960" alt="Twitter_tokens" src="https://user-images.githubusercontent.com/4371600/57039394-5fdbe080-6c11-11e9-981b-e7fbcf6114c2.PNG">
+
+2. Amazon Kinesis Data Firehose :
+
+<img width="960" alt="Kinesis_firehose_streams" src="https://user-images.githubusercontent.com/4371600/57039638-0de78a80-6c12-11e9-8b5e-128985b02425.PNG">
+
+3. Amazon S3 :
+
+<img width="960" alt="S3_dashboard" src="https://user-images.githubusercontent.com/4371600/57039276-0e335600-6c11-11e9-8749-f757804e755a.PNG">
+
+<img width="960" alt="s3_bucket_folders" src="https://user-images.githubusercontent.com/4371600/57039512-a8939980-6c11-11e9-8b27-36b4f210a81c.PNG">
+
+4. IAM roles  :
+
+<img width="960" alt="IAM_roles" src="https://user-images.githubusercontent.com/4371600/57039688-2b1c5900-6c12-11e9-84bd-d408e9ff19ea.PNG">
+
+5. EC2 Instance :
+
+<img width="960" alt="EC2-instance" src="https://user-images.githubusercontent.com/4371600/57040396-22c51d80-6c14-11e9-8614-891f91947791.PNG">
+
+6. Athena Database :
+
+<img width="237" alt="Athena_database" src="https://user-images.githubusercontent.com/4371600/57040224-9adf1380-6c13-11e9-9a4f-59639ecd1e5d.PNG">
+
+7.Amazon QuickSight :
+
+
 
 ## Pre-requisites Set Up :
 
@@ -104,9 +133,9 @@ node twitter_stream_producer_app.js
 ```
 This command will start extracting data from the Twitter and put it into Amazon S3 through kinesis firehose. As the data comes in the S3 bucket, lambda function is triggered which fetches the twitter data, performs analysis on it and pushes back to the S3 bucket
 
-<img width="960" alt="Twitter_tokens" src="https://user-images.githubusercontent.com/4371600/57039394-5fdbe080-6c11-11e9-981b-e7fbcf6114c2.PNG">
 
-<img width="960" alt="S3_dashboard" src="https://user-images.githubusercontent.com/4371600/57039276-0e335600-6c11-11e9-8749-f757804e755a.PNG">
+
+
 
 **Step3** : Go to Athena dashboard and create external table in Athena. After creating the table, write SQL queries. The query output will be stored in a new S3 bucket.
 
