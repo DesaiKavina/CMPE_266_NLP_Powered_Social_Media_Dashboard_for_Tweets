@@ -3,10 +3,13 @@
 1. University Name: [San Jose State University](http://www.sjsu.edu/)
 2. Course         : [Big Data Engineering and Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE266.html)
 3. Professor      : [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-4. Students       : [Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
-                    [Vagdevi Challa](https://github.com/vagdevichalla) <br/>
-                    [Mohinish Daswani](https://github.com/mohinishmd) <br/>
-		    [Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
+4. Students       : 
+
+	[Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
+	[Vagdevi Challa](https://github.com/vagdevichalla) <br/>
+	[Mohinish Daswani](https://github.com/mohinishmd) <br/>
+	[Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
+	Sai Supraja Malla <br/>
                     
 
 ## Project Introduction :
