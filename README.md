@@ -1,9 +1,9 @@
 # CMPE_266 - Project Team 8
-<pre>
 1. University Name: [San Jose State University](http://www.sjsu.edu/)
 2. Course         : [Big Data Engineering and Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE266.html)
 3. Professor      : [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-4. Students       : [Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
+4. Students       : 
+			[Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
 			[Vagdevi Challa](https://www.linkedin.com/in/vagdevi-challa-bbb46161/) <br/>
 		    	[Mohinish Daswani](https://www.linkedin.com/in/mohinish-daswani-0318a6110/) <br/>
 			[Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
@@ -109,4 +109,4 @@ This command will start extracting data from the Twitter and put it into Amazon 
 **Step4** : Go to Amazon Quicksight console and create a new data set in it and choose the tables created in Amazon Athena. After that, run a query in the Quicksight console and you can see graphs generated from the results of the query.
 
 
-</pre>
+
