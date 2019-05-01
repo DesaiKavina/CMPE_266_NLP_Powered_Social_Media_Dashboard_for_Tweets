@@ -71,7 +71,7 @@ stored on S3.
 
 Below is the list of resources to be configured for this project:
 
-  ####**Amazon S3** <br/>
+  #### **Amazon S3** <br/>
   Amazon Simple Storage Service (Amazon S3) is an object storage service offering scalability, data availability, security,    	 and performance. It is designed for 99.999999999% of durability, and storing the data for millions of applications for      
   organizations all around the world. <br/> Below are the steps to create S3 bucket : <br/> 
   	
