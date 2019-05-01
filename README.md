@@ -104,6 +104,8 @@ node twitter_stream_producer_app.js
 ```
 This command will start extracting data from the Twitter and put it into Amazon S3 through kinesis firehose. As the data comes in the S3 bucket, lambda function is triggered which fetches the twitter data, performs analysis on it and pushes back to the S3 bucket
 
+<img width="960" alt="S3_dashboard" src="https://user-images.githubusercontent.com/4371600/57039276-0e335600-6c11-11e9-8749-f757804e755a.PNG">
+
 **Step3** : Go to Athena dashboard and create external table in Athena. After creating the table, write SQL queries. The query output will be stored in a new S3 bucket.
 
 **Step4** : Go to Amazon Quicksight console and create a new data set in it and choose the tables created in Amazon Athena. After that, run a query in the Quicksight console and you can see graphs generated from the results of the query.
