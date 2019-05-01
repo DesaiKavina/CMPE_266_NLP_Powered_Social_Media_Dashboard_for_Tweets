@@ -9,7 +9,7 @@
 	[Vagdevi Challa](https://www.linkedin.com/in/vagdevi-challa-bbb46161/) <br/>
 	[Mohinish Daswani](https://www.linkedin.com/in/mohinish-daswani-0318a6110/) <br/>
 	[Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
-	Sai Supraja Malla(https://www.linkedin.com/in/saisuprajamalla/) <br/>
+	[Sai Supraja Malla](https://www.linkedin.com/in/saisuprajamalla/) <br/>
                     
 
 ## Project Introduction :
