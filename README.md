@@ -131,7 +131,7 @@ Below is the list of resources to be configured for this project:
 ```
 node twitter_stream_producer_app.js
 ```
-This command will call confid whoch has details to access twitter and starts extracting data from the Twitter and put it into Amazon S3 through kinesis firehose. As the data comes in the S3 bucket, lambda function is triggered which fetches the twitter data, performs analysis on it and pushes back to the S3 bucket
+This command will call config which has details to access twitter and starts extracting data from the Twitter and put it into Amazon S3 through kinesis firehose. As the data comes in the S3 bucket, lambda function is triggered which fetches the twitter data, performs analysis on it and pushes back to the S3 bucket
 
 
 
