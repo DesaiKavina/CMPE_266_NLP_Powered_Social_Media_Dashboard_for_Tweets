@@ -39,7 +39,7 @@ stored on S3.
 ## Sample Demo Screenshots : 
 1. Twitter App to collect data:
 
-<img width="960" alt="Twitter_tokens" src="https://user-images.githubusercontent.com/4371600/57039394-5fdbe080-6c11-11e9-981b-e7fbcf6114c2.PNG">
+<img width="960" alt="Twitter_tokens" src="https://user-images.githubusercontent.com/38084886/57042183-daf4c500-6c18-11e9-8ba2-a0cdab146596.PNG">
 
 2. Amazon Kinesis Data Firehose :
 
