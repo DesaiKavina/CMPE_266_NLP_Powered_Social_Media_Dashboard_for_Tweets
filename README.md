@@ -71,7 +71,7 @@ stored on S3.
 
 Below is the list of resources to be configured for this project:
 
-  Amazon S3 <br/>
+  #### Amazon S3 <br/>
   Amazon Simple Storage Service (Amazon S3) is an object storage service offering scalability, data availability, security,    	 and performance. It is designed for 99.999999999% of durability, and storing the data for millions of applications for      
   organizations all around the world. <br/> Below are the steps to create S3 bucket : <br/> 
   	
@@ -82,22 +82,22 @@ Below is the list of resources to be configured for this project:
 	
 	
  
-  Amazon Kinesis Data Firehose <br/>
+  #### Amazon Kinesis Data Firehose <br/>
   Amazon Kinesis Data Firehose is used for reliably loading streaming data into data stores and analytics tools. It captures, 	transforms, and loads streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, Splunk and enables near   real-time analytics with existing business intelligence tools and dashboards. <br/>
   In this project, we are capturing real time Twitter data in Amazon Kinesis Data firehose for the analysis.<br/>
   
   
-  Amazon Athena <br/>
+  #### Amazon Athena <br/>
   Amazon Athena is an interactive query service making it easy for analyzing data in Amazon S3 using standard SQL. Athena is     serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. <br/>
   Amazon QuickSight <br/>
   Amazon QuickSight is a fully managed service that lets you easily create and publish interactive dashboards including ML     	 Insights. Dashboards can then be accessed from any device, and embedded into your applications, portals, and websites. <br/>
   
 
-  Amazon IAM <br/>
+  #### Amazon IAM <br/>
   
   
-  Amazon Lambda <br/>
-  Amazon EC2 <br/>
+  #### Amazon Lambda <br/>
+  #### Amazon EC2 <br/>
   Amazon Elastic Compute Cloud (Amazon EC2) is a web service providing secure, resizable compute capacity in the cloud. It is 	designed to make web-scale cloud computing easier for developers. <br/>
   Below are the steps for creating AWS EC2 instance for this project : <br/>
   
