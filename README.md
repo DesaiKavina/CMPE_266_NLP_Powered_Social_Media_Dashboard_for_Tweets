@@ -33,7 +33,7 @@ and AWS Comprehend to analyze tweets. These two services helped to perform NLP
 (Natural language processing) on tweets.
 3) Separate Kinesis data delivery streams within kinesis fire hose service is used in order to write back data to s3 bucket.
 4) Once the enriched data is stored on S3, we used Athena to query the data that is
-stored on S3.
+stored on S3. 
 5) Then, used Amazon quick sight to visualize analyzed data.
 
 ## Sample Demo Screenshots : 
