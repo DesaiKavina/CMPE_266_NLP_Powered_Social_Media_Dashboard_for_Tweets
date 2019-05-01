@@ -6,10 +6,10 @@
 4. Students       : 
 
 	[Sayali Patil](https://www.linkedin.com/in/sayali-patil-7b041078/) <br/>
-	[Vagdevi Challa](https://github.com/vagdevichalla) <br/>
-	[Mohinish Daswani](https://github.com/mohinishmd) <br/>
+	[Vagdevi Challa](https://www.linkedin.com/in/vagdevi-challa-bbb46161/) <br/>
+	[Mohinish Daswani](https://www.linkedin.com/in/mohinish-daswani-0318a6110/) <br/>
 	[Kavina Desai](https://www.linkedin.com/in/kavina-desai)<br/>
-	Sai Supraja Malla <br/>
+	Sai Supraja Malla(https://www.linkedin.com/in/saisuprajamalla/) <br/>
                     
 
 ## Project Introduction :
