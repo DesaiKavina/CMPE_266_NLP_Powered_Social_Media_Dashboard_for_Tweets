@@ -65,7 +65,12 @@ stored on S3.
 <img width="237" alt="Athena_database" src="https://user-images.githubusercontent.com/4371600/57040224-9adf1380-6c13-11e9-9a4f-59639ecd1e5d.PNG">
 
 Athena Query result for top 5 positively rated players : <br/>
-Athena Query result for top 5 positively rated players :<br/>
+
+<img width="960" alt="athena-query-11" src="https://user-images.githubusercontent.com/4371600/57057940-65611700-6c61-11e9-917f-a509fdcea10b.PNG">
+
+Athena Query result for top 5 negatively rated players :<br/>
+
+<img width="960" alt="athena-query-12" src="https://user-images.githubusercontent.com/4371600/57057944-70b44280-6c61-11e9-9ca7-425b9a3ff27a.PNG">
 
 7.Amazon QuickSight :
 
