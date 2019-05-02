@@ -66,7 +66,13 @@ stored on S3.
 
 7.Amazon QuickSight :
 
+<img width="960" alt="quicksight_result_1" src="https://user-images.githubusercontent.com/4371600/57057758-064ed280-6c60-11e9-84ed-056abad3824d.PNG">
 
+<img width="960" alt="quicksight_result_2" src="https://user-images.githubusercontent.com/4371600/57057764-123a9480-6c60-11e9-8bdb-c20127fa36c2.PNG">
+
+<img width="960" alt="quicksight_result_analytics_2" src="https://user-images.githubusercontent.com/4371600/57057729-e61f1380-6c5f-11e9-83e6-d944fd3ccb3d.PNG">
+
+<img width="960" alt="quicksight_result_analytics_1" src="https://user-images.githubusercontent.com/4371600/57057739-f6cf8980-6c5f-11e9-8854-5efcc225e5b1.PNG">
 
 ## Pre-requisites Set Up :
 
